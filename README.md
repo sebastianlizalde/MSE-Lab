@@ -1,2 +1,2 @@
 # MSE-Lab
-#Mi primer repositorio
+# Repositorio en el cual se presentan las prácticas desarrolladas durante el semestre
